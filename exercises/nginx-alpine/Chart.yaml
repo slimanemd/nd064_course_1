@@ -1,8 +1,8 @@
 apiVersion: v1
-name: nginx-deployment 
-description: Install a nginx alpine deployment
+name: nginx-deployment
+description: Install Nginx deployment manifests
 keywords:
-- nginx
+- nginx 
 version: 1.0.0
 maintainers:
 - name: slimane
